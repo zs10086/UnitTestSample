@@ -9,7 +9,7 @@ namespace ClassLibrary1.Tests
         public void IsOddTest()
         {
             //Arrange
-            var num = 2;
+            var num = 1;
 
             //Act
             bool result = Math.IsOdd(num);
